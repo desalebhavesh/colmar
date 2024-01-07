@@ -78,7 +78,7 @@ Hero section
 }
 
 .hero-left img {
-    width: 85%;
+    width: 60%;
 }
 
 .hero-right {
@@ -87,6 +87,7 @@ Hero section
     flex-direction: column;
     margin: 0 1%;
     padding: 0 2%;
+    width: 40%;
 }
 
 .hero-right > h1, h4 {
@@ -114,6 +115,8 @@ News section
     display: flex;
     flex-direction: column;
     padding: 2%;
+    margin: 32px 0 32px 24px;
+
 }
 
 .news-left img {
@@ -337,5 +340,4 @@ footer a {
 footer li {
     padding: 0 1em;
 }
-
 
